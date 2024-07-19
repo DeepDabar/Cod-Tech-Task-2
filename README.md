@@ -39,3 +39,13 @@ JavaScript
 **Overview**
 
 This app pulls real-time weather data from an external weather API and updates the displayed information on the webpage using JavaScript. The interface is designed with HTML and CSS to be responsive and user-friendly, providing a seamless experience on various devices.
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
+
+
+
+
+
+
