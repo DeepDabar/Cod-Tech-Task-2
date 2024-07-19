@@ -31,7 +31,9 @@ Access information like temperature, humidity, wind speed, and weather condition
 **Technologies Utilized**
 
 HTML
+
 CSS
+
 JavaScript
 
 **Overview**
